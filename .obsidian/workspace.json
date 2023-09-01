@@ -11,11 +11,24 @@
             "id": "59b51a91167876f0",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/nota_vinculada.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "929ca8fcc474b254",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,11 +151,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "59b51a91167876f0",
+  "active": "b9eb346b87066d12",
   "lastOpenFiles": [
     "Obsidian/Dicas obsidian.md",
-    "2023-09-01.md",
     "Obsidian/nota_vinculada.md",
+    "2023-09-01.md",
     "Sem título.md",
     "Python/Documentação class conta.md",
     "Obsidian",

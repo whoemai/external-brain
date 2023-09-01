@@ -1,2 +1,2 @@
 #obsidian 
-Aqui vinculamos a nossa nota
+Aqui vinculamos a nossa nota [[Dicas obsidian]]
