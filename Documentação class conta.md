@@ -1,5 +1,4 @@
-#Python
-
+#Python #class 
 A classe `Conta` representa uma conta bancária e possui métodos para realizar operações básicas, como consultar o saldo, depositar, sacar e transferir dinheiro. Vamos entender cada parte do código passo a passo.
 
 ## Construtor `__init__`
