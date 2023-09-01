@@ -14,8 +14,29 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "41c4d7597a790d00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Vincular notas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "699bff0efe6aef64",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,8 +162,11 @@
   },
   "active": "bf4b4d4380ff31ce",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Obsidian/Vincular notas.md",
+    "Obsidian/nota_vinculada.md",
     "Python/Documentação class conta.md",
+    "Obsidian",
+    "Untitled.canvas",
     "Terraform",
     "Python",
     "2023-09-01.md",
