@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8d106a2c87301c55",
+        "id": "0613b992a6439018",
         "type": "tabs",
         "children": [
           {
-            "id": "45ff56fa74905b1b",
+            "id": "cbf489c8334b1bf0",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Python",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,20 +131,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "45ff56fa74905b1b",
+  "active": "bf4b4d4380ff31ce",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Python/Documentação class conta.md",
     "Terraform",
     "Python",
-    "Untitled.canvas",
     "2023-09-01.md",
     "teste2.md",
     "teste.md"
