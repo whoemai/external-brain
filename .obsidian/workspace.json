@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0613b992a6439018",
+        "id": "39985258d608a3b2",
         "type": "tabs",
         "children": [
           {
-            "id": "cbf489c8334b1bf0",
+            "id": "59b51a91167876f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "41c4d7597a790d00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Dicas obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "699bff0efe6aef64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Dicas obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Dicas obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Dicas obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian/Dicas obsidian.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -168,17 +138,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "699bff0efe6aef64",
+  "active": "59b51a91167876f0",
   "lastOpenFiles": [
-    "Sem título.md",
     "Obsidian/Dicas obsidian.md",
+    "2023-09-01.md",
     "Obsidian/nota_vinculada.md",
+    "Sem título.md",
     "Python/Documentação class conta.md",
     "Obsidian",
     "Untitled.canvas",
     "Terraform",
     "Python",
-    "2023-09-01.md",
     "teste2.md",
     "teste.md"
   ]
