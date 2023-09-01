@@ -1,4 +1,45 @@
 #Python #class 
+
+class Conta:
+
+    def __init__(self, numero, titular, saldo, limite):
+        print(f"Construindo objeto ... {self}")
+        self.__numero = numero
+        self.__titular = titular
+        self.__saldo = saldo
+        self.__limite = limite
+
+    def extrato(self):
+        print(f"Saldo de {self.__saldo} do titular {self.__titular}")
+
+    def deposita(self, valor):
+        self.__saldo += valor
+
+    def saca(self, valor):
+        self.__saldo -= valor
+
+    def transfere(self, valor, destino):
+        self.saca(valor)
+        destino.deposita(valor)
+
+    @property
+    def saldo(self):
+        return self.__saldo
+
+    @property
+    def titular(self):
+        return self.__titular
+
+    @property
+    def limite(self):
+        return self.__limite
+
+    @limite.setter
+    def limite(self, limite):
+        self.__limite = limite
+
+---
+
 A classe `Conta` representa uma conta bancária e possui métodos para realizar operações básicas, como consultar o saldo, depositar, sacar e transferir dinheiro. Vamos entender cada parte do código passo a passo.
 
 ## Construtor `__init__`
