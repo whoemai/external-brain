@@ -11,12 +11,8 @@
             "id": "7d0fdfebb5d50649",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Limpando uma venv.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Limpando uma venv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Limpando uma venv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/Limpando uma venv.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,8 @@
   },
   "active": "7d0fdfebb5d50649",
   "lastOpenFiles": [
-    "Python/Documentação class conta.md",
     "Python/Limpando uma venv.md",
+    "Python/Documentação class conta.md",
     "Obsidian/nota_vinculada.md",
     "Obsidian/Dicas obsidian.md",
     "2023-09-01.md",
