@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Criando uma secret key na AWS.md",
+                "file": "Python/Criando uma vanv.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Criando uma secret key na AWS.md",
+                "file": "Python/Criando uma vanv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/Criando uma secret key na AWS.md",
+                "file": "Python/Criando uma vanv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Criando uma secret key na AWS.md"
+                "file": "Python/Criando uma vanv.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "6c9a7d29bcc28446",
   "lastOpenFiles": [
+    "Ansible/Fazendo a instalação do Ansible.md",
+    "Python/Criando uma vanv.md",
+    "AWS/Criando uma secret key na AWS.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
-    "Ansible/Fazendo a instalação do Ansible.md",
     "AWS/Criando um par de chaves AWS.md",
-    "AWS/Criando uma secret key na AWS.md",
     "AWS",
     "Ansible",
     "Vs code",
