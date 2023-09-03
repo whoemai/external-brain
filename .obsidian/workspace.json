@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vs code/AWS/Criando uma secret key na AWS.md",
+                "file": "Vs code/AWS/Criando um paz de chaves AWS.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vs code/AWS/Criando uma secret key na AWS.md",
+                "file": "Vs code/AWS/Criando um paz de chaves AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vs code/AWS/Criando uma secret key na AWS.md",
+                "file": "Vs code/AWS/Criando um paz de chaves AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vs code/AWS/Criando uma secret key na AWS.md"
+                "file": "Vs code/AWS/Criando um paz de chaves AWS.md"
               }
             }
           }
@@ -169,8 +169,9 @@
   },
   "active": "920115fa76f38a03",
   "lastOpenFiles": [
-    "Vs code/Ansible/Fazendo a instalação do Ansible.md",
     "Vs code/AWS/Criando uma secret key na AWS.md",
+    "Vs code/AWS/Criando um paz de chaves AWS.md",
+    "Vs code/Ansible/Fazendo a instalação do Ansible.md",
     "Vs code/AWS",
     "Vs code/Ansible",
     "Vs code",
