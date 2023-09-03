@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a6e42e7dfd65489c",
+        "id": "553b8006c4cc69f9",
         "type": "tabs",
         "children": [
           {
-            "id": "d6f531684b44f270",
+            "id": "6c9a7d29bcc28446",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/Criando um par de chaves AWS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#obsidian",
+                "query": "tag:#Vscode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Criando um par de chaves AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/Criando um par de chaves AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AWS/Criando um par de chaves AWS.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +139,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d6f531684b44f270",
+  "active": "6c9a7d29bcc28446",
   "lastOpenFiles": [
-    "AWS/Criando uma secret key na AWS.md",
-    "AWS/Criando um par de chaves AWS.md",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
     "Ansible/Fazendo a instalação do Ansible.md",
+    "AWS/Criando um par de chaves AWS.md",
+    "AWS/Criando uma secret key na AWS.md",
     "AWS",
     "Ansible",
     "Vs code",
