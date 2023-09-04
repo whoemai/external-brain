@@ -50,5 +50,5 @@ O sublinhado `_` é uma convenção em Python que geralmente é usada para indic
     - A intenção é tornar o atributo ou método mais privado e mais difícil de ser acidentalmente substituído por subclasses. No entanto, ainda é possível acessá-lo diretamente, mas requer o uso do nome modificado.
 
 ## E quando eu devo usar _ ou __ ?
-Para saber mais sobre o uso do underline confira essa nota --> [[uso de _ ou __ em Python]]
+Para saber mais sobre o uso do underline confira essa nota --> [[_ ou __ protect e private]]
 
