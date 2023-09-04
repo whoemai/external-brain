@@ -9,4 +9,22 @@ Programa (nome, ano, likes)
 	Filmes (duração)
 	Séries (temporadas)
 
+```python
+class Programa:
+    def __init__(self, titulo, ano):
+        self._titulo = titulo
+        self.ano = ano
+
+class Filme(Programa):
+    def __init__(self, titulo, ano, duracao):
+        super().__init__(titulo, ano)
+        self.duracao = duracao
+
+class Serie(Programa):
+    def __init__(self, titulo, ano, temporadas):
+        super().__init__(titulo, ano)
+        self.temporadas = temporadas
+```
+
+
 
