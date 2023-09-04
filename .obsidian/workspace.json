@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Documentação class conta.md",
+                "file": "Python/Criando uma venv.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Documentação class conta.md",
+                "file": "Python/Criando uma venv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Documentação class conta.md",
+                "file": "Python/Criando uma venv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Documentação class conta.md"
+                "file": "Python/Criando uma venv.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "6c9a7d29bcc28446",
   "lastOpenFiles": [
-    "Python/Criando uma vanv.md",
-    "Python/Documentação class conta.md",
     "Python/Limpando uma venv.md",
+    "Python/Criando uma venv.md",
+    "Python/Documentação class conta.md",
     "Ansible/Fazendo a instalação do Ansible.md",
     "AWS/Criando uma secret key na AWS.md",
     "Sem título 1.canvas",
