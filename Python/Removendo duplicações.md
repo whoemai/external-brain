@@ -32,5 +32,20 @@ O sublinhado `_` é uma convenção em Python que geralmente é usada para indic
 
 **Nome Conflitante**: Às vezes, o sublinhado é usado para evitar conflitos de nomes. Se uma classe possui um método chamado `_privado`, isso pode ser usado para evitar que um método com o mesmo nome em uma subclasse substitua acidentalmente o método da classe pai.
 
-
+## E qual a diferença de usar um ou dois underline?
+1. **Um Sublinhado (`_`)**:
+    
+    - Um único sublinhado no início de um nome (por exemplo, `_atributo` ou `_metodo`) é uma convenção que indica que o nome é "protegido". Isso significa que ele não deve ser acessado diretamente de fora da classe, embora Python não impeça tal acesso.
+        
+    - O nome não sofre "name mangling", o que significa que ele permanece praticamente inalterado. Por exemplo, `_atributo` permanece como `_atributo`.
+        
+    - É uma dica para os desenvolvedores de que o atributo ou método é destinado a ser usado internamente pela classe ou subclasse e não deve ser considerado parte da interface pública da classe.
+        
+2. **Dois Sublinhados (`__`)**:
+    
+    - Dois sublinhados no início de um nome (por exemplo, `__atributo` ou `__metodo`) ativa a técnica de "name mangling". Isso significa que o Python altera o nome do atributo ou método para evitar conflitos de nomes em subclasses.
+        
+    - O Python renomeia o atributo ou método para `_NOMECLASSE__atributo` ou `_NOMECLASSE__metodo`, onde `NOMECLASSE` é o nome da classe onde o atributo ou método foi definido. Isso ajuda a evitar colisões de nomes quando uma subclasse tem um atributo ou método com o mesmo nome.
+        
+    - A intenção é tornar o atributo ou método mais privado e mais difícil de ser acidentalmente substituído por subclasses. No entanto, ainda é possível acessá-lo diretamente, mas requer o uso do nome modificado.
 
