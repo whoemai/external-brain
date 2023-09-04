@@ -5,6 +5,8 @@ Não seria muito inteligente criar duas classes com 3 parâmetros igual e soment
 
 Sua estrutura ficaria da seguinte forma: 
 
-Programa(nome, ano, likes)
-Filmes(duração)
-Séries(temporadas)
+Programa (nome, ano, likes)
+	Filmes (duração)
+	Séries (temporadas)
+
+
