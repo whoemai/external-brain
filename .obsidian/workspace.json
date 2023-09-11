@@ -148,6 +148,12 @@
   },
   "active": "b9eb346b87066d12",
   "lastOpenFiles": [
+    "Terraform/Nova-pasta/RECAZSUSWPRD057/variables.tf",
+    "Terraform/Nova-pasta/RECAZSUSWPRD057/provider.tf",
+    "Terraform/Nova-pasta/RECAZSUSWPRD057/main.tf",
+    "Terraform/Nova-pasta/RECAZSUSWPRD057/backend.tf",
+    "Terraform/Nova-pasta/RECAZSUSWPRD057",
+    "Terraform/Nova-pasta",
     "Terraform/padrao_terraform_azure.tf",
     "Python/Removendo duplicações.md",
     "Python/_ ou __ protect e private.md",
@@ -167,8 +173,6 @@
     "2023-09-01.md",
     "Obsidian",
     "Untitled.canvas",
-    "Terraform",
-    "Python",
     "teste2.md",
     "teste.md"
   ]
