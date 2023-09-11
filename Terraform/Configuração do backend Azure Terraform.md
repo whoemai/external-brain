@@ -1,6 +1,6 @@
+#Terraform #Azure 
+```hcl
 # Configuração do backend Azure para armazenamento do estado remoto do Terraform
-
-``` terraform
 terraform {
     backend "azurerm" {
         resource_group_name   = "rg-terraform-backend"            // Nome do grupo de recursos para o backend

@@ -1,4 +1,4 @@
-Claro, vou adicionar comentários ao seu código Terraform para explicar cada funcionalidade. Segue o código com os comentários:
+#Azure #Terraform #
 
 ```hcl
 # Recurso de grupo Azure Resource Group
