@@ -1,4 +1,4 @@
-data "azure_resource_group" "name" {
+data "azurerm_resource_group" "name" {
     name = "nome-do-resource-group"
 }
 
@@ -7,7 +7,7 @@ data "azure_key_vault" "kv_infraestrutura" {
     resource_group = nome-do-resourcegroup-da-kv
 }
 
-data "azure_key_vault_secret" "PasswordServerAdmin" {
+data "azurerm_key_vault_secret" "PasswordServerAdmin" {
     name = var.PasswordServerAdmin
     key_vault_id = data.azure_key_vault.kv_infraestrutura.id
 }
@@ -18,13 +18,13 @@ resource "random_integer" "id" {
 }
 
 resource "azurerm_windows_virtual_machine" "res_1" {
-    admin_username = 
-    admin_password = 
-    license_type = 
-    location = 
-    name = 
+    admin_username        = var.admin_username
+    admin_password        = data.azurerm_key_vault_secret.PasswordServerAdmin.value
+    license_type          = "Windows_Server"
+    location              = data.azure
+    name                  = 
     network_interface_ids = 
-    resource_group_name = 
-    size = 
-    
+    resource_group_name   = 
+    size                  = 
+    zone                  = 
 }
