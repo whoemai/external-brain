@@ -1,3 +1,6 @@
+Claro, vou adicionar comentários ao seu código Terraform para explicar cada funcionalidade. Segue o código com os comentários:
+
+```hcl
 # Recurso de grupo Azure Resource Group
 data "azurerm_resource_group" "res-2" {
   name = "xxx" // Preencher com o nome do grupo de recursos para implantação
@@ -67,3 +70,6 @@ resource "azurerm_network_interface" "res-0" {
     data.azurerm_resource_group.res-2,
   ]
 }
+```
+
+Agora, o código está documentado com comentários que explicam o propósito de cada funcionalidade e onde você precisa fazer ajustes de acordo com o ambiente. Certifique-se de personalizar as partes marcadas como "xxx" com os valores específicos do seu ambiente.

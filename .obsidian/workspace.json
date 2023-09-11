@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Removendo duplicações.md",
+                "file": "Terraform/main.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Removendo duplicações.md",
+                "file": "Terraform/main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Removendo duplicações.md",
+                "file": "Terraform/main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Removendo duplicações.md"
+                "file": "Terraform/main.md"
               }
             }
           }
@@ -146,8 +146,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b9eb346b87066d12",
+  "active": "6c9a7d29bcc28446",
   "lastOpenFiles": [
+    "Python/Documentação class conta.md",
+    "Python/_ ou __ protect e private.md",
+    "Terraform/main.md",
+    "Python/Removendo duplicações.md",
+    "Terraform/variables.md",
+    "Terraform/provider.md",
+    "Terraform/backend.md",
+    "Terraform/main.MD",
+    "Terraform/backend.MD",
     "Terraform/main.tf",
     "Terraform/variables.tf",
     "Terraform/provider.tf",
@@ -158,11 +167,7 @@
     "Terraform/Nova-pasta/RECAZSUSWPRD057/main.tf",
     "Terraform/Nova-pasta/RECAZSUSWPRD057/backend.tf",
     "Terraform/Nova-pasta/RECAZSUSWPRD057",
-    "Terraform/Nova-pasta",
-    "Python/Removendo duplicações.md",
-    "Python/_ ou __ protect e private.md",
     "Python/Criando uma venv.md",
-    "Python/Documentação class conta.md",
     "Python/Limpando uma venv.md",
     "Ansible/Fazendo a instalação do Ansible.md",
     "AWS/Criando uma secret key na AWS.md",
