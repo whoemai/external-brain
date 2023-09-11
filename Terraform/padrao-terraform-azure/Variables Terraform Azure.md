@@ -1,3 +1,5 @@
+#Terraform #Azure #Cloud
+```hcl
 variable "admin_username" {
   type        = string
   default = "recadmin" // Nome de usuário do administrador da VM
@@ -30,3 +32,4 @@ variable "dns_servers" {
     "xxx"
   ] // Servidores DNS a serem usados pela VM
 }
+```

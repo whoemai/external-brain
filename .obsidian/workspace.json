@@ -11,12 +11,8 @@
             "id": "6c9a7d29bcc28446",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terraform/Configuração do backend Azure Terraform.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Azure",
+                "query": "tag:#Cloud",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,13 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c66c9498991b67a3",
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terraform/Configuração do backend Azure Terraform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terraform/Configuração do backend Azure Terraform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Terraform/Configuração do backend Azure Terraform.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,13 +140,15 @@
   },
   "active": "6c9a7d29bcc28446",
   "lastOpenFiles": [
-    "Terraform/Configuração do backend Azure Terraform.md",
-    "Terraform/Estrutura MAIN do terraform Azure.md",
+    "Terraform/padrao-terraform-azure/Backend Azure Terraform.md",
+    "Terraform/padrao-terraform-azure/Main Terraform Azure.md",
+    "Terraform/padrao-terraform-azure/Provider Terraform Azure.md",
+    "Terraform/padrao-terraform-azure/Variables Terraform Azure.md",
+    "AWS/Criando uma secret key na AWS.md",
+    "AWS/Criando um par de chaves AWS.md",
     "Python/Documentação class conta.md",
     "Python/_ ou __ protect e private.md",
     "Python/Removendo duplicações.md",
-    "Terraform/variables.md",
-    "Terraform/provider.md",
     "Terraform/main.MD",
     "Terraform/backend.MD",
     "Terraform/main.tf",
@@ -172,10 +164,8 @@
     "Python/Criando uma venv.md",
     "Python/Limpando uma venv.md",
     "Ansible/Fazendo a instalação do Ansible.md",
-    "AWS/Criando uma secret key na AWS.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
-    "AWS/Criando um par de chaves AWS.md",
     "Obsidian/nota_vinculada.md",
     "Obsidian/Dicas obsidian.md",
     "2023-09-01.md",

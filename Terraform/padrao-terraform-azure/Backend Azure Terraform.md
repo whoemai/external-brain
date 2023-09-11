@@ -1,4 +1,4 @@
-#Terraform #Azure 
+#Terraform #Azure #Cloud 
 ```hcl
 # Configuração do backend Azure para armazenamento do estado remoto do Terraform
 terraform {
