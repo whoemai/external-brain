@@ -22,7 +22,7 @@ resource "azurerm_windows_virtual_machine" "res-1" {
   network_interface_ids = [azurerm_network_interface.res-0.id]
   resource_group_name   = data.azurerm_resource_group.res-2.name
   size                  = var.vm_size
-  zone = "1"
+  zone                  = "1"
   boot_diagnostics {
   }
   identity {
@@ -44,13 +44,13 @@ resource "azurerm_windows_virtual_machine" "res-1" {
 }
 resource "azurerm_network_interface" "res-0" {
   location            = data.azurerm_resource_group.res-2.location
-  name                = format("RECAZSUSWPRD057-%v", random_integer.id.result) // <-- Alterar somente o nome da maquina
+  name                = format("xxx-%v", random_integer.id.result) // <-- Alterar somente o nome da maquina (xxx)
   resource_group_name = data.azurerm_resource_group.res-2.name
   dns_servers         = var.dns_servers 
   ip_configuration {
     name                          = "ipconfig1"
     private_ip_address_allocation = var.private_ip_address_allocation
-    subnet_id                     = "/subscriptions/14fec87c-5fc7-4040-9046-b99a56edc557/resourceGroups/rg-sir-tools-prd-scus/providers/Microsoft.Network/virtualNetworks/vnet-spoke-prod-35/subnets/snet-spoke-prd-01" // <-- Preencher essa informação conforme vnet e snet fornecida pelo time de redes
+    subnet_id                     = "xxx" // <-- Preencher essa informação conforme vnet e snet
   }
   depends_on = [
     data.azurerm_resource_group.res-2,
