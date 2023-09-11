@@ -1,4 +1,4 @@
-data "azurerm_resource_group" "name" {
+data "azurerm_resource_group" "res_2" {
     name = "nome-do-resource-group"
 }
 
@@ -21,8 +21,8 @@ resource "azurerm_windows_virtual_machine" "res_1" {
     admin_username        = var.admin_username
     admin_password        = data.azurerm_key_vault_secret.PasswordServerAdmin.value
     license_type          = "Windows_Server"
-    location              = data.azure
-    name                  = 
+    location              = data.azurerm_resource_group.res_2.location
+    name                  = "nome_da_vm"
     network_interface_ids = 
     resource_group_name   = 
     size                  = 
