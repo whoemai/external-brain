@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c66c9498991b67a3",
