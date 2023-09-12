@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Azure",
+                "query": "python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,15 +139,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6c9a7d29bcc28446",
+  "active": "bf4b4d4380ff31ce",
   "lastOpenFiles": [
+    "Python/Documentação class conta.md",
+    "AWS/Criando um par de chaves AWS.md",
     "Terraform/padrao-terraform-azure/Main Terraform Azure.md",
     "Terraform/padrao-terraform-azure/Backend Azure Terraform.md",
     "Terraform/padrao-terraform-azure/Provider Terraform Azure.md",
     "Terraform/padrao-terraform-azure/Variables Terraform Azure.md",
     "AWS/Criando uma secret key na AWS.md",
-    "AWS/Criando um par de chaves AWS.md",
-    "Python/Documentação class conta.md",
     "Python/_ ou __ protect e private.md",
     "Python/Removendo duplicações.md",
     "Terraform/main.MD",
