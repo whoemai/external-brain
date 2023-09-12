@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Criando um par de chaves AWS.md",
-                "mode": "source",
+                "file": "Python/Documentação class conta.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Criando um par de chaves AWS.md",
+                "file": "Python/Documentação class conta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/Criando um par de chaves AWS.md",
+                "file": "Python/Documentação class conta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Criando um par de chaves AWS.md"
+                "file": "Python/Documentação class conta.md"
               }
             }
           }
@@ -148,14 +148,15 @@
   },
   "active": "6c9a7d29bcc28446",
   "lastOpenFiles": [
-    "Python/Documentação class conta.md",
+    "Python/Criando uma venv.md",
+    "Python/_ ou __ protect e private.md",
     "AWS/Criando um par de chaves AWS.md",
+    "Python/Documentação class conta.md",
     "Terraform/padrao-terraform-azure/Main Terraform Azure.md",
     "Terraform/padrao-terraform-azure/Backend Azure Terraform.md",
     "Terraform/padrao-terraform-azure/Provider Terraform Azure.md",
     "Terraform/padrao-terraform-azure/Variables Terraform Azure.md",
     "AWS/Criando uma secret key na AWS.md",
-    "Python/_ ou __ protect e private.md",
     "Python/Removendo duplicações.md",
     "Terraform/main.MD",
     "Terraform/backend.MD",
@@ -169,7 +170,6 @@
     "Terraform/Nova-pasta/RECAZSUSWPRD057/main.tf",
     "Terraform/Nova-pasta/RECAZSUSWPRD057/backend.tf",
     "Terraform/Nova-pasta/RECAZSUSWPRD057",
-    "Python/Criando uma venv.md",
     "Python/Limpando uma venv.md",
     "Ansible/Fazendo a instalação do Ansible.md",
     "Sem título 1.canvas",
