@@ -71,3 +71,78 @@ resource "azurerm_network_interface" "res-0" {
   ]
 }
 ```
+
+---
+
+```markdown
+# Documentação da Configuração de Recursos Azure com Terraform
+
+Este documento descreve a configuração de recursos Azure usando Terraform. O código fornecido define vários recursos, como grupos de recursos, máquinas virtuais Windows, chaves do Azure Key Vault e muito mais. A seguir, vamos detalhar cada parte do código.
+
+## Recurso de Grupo Azure Resource Group
+
+```hcl
+data "azurerm_resource_group" "res-2" {
+  name = "xxx" // Preencher com o nome do grupo de recursos para implantação
+}
+```
+
+Este bloco de código define um recurso de grupo Azure Resource Group. O campo `name` deve ser preenchido com o nome do grupo de recursos a ser implantado.
+
+## Chave do Azure Key Vault
+
+```hcl
+data "azurerm_key_vault" "kv-infraestrutura" {
+  name                = "xxx" // Nome do KeyVault, alterar de acordo com o ambiente
+  resource_group_name = "xxx" // Nome do grupo de recursos da Key Vault, alterar de acordo com o ambiente
+}
+```
+
+Este bloco de código define uma chave do Azure Key Vault. Substitua os campos `name` e `resource_group_name` pelos valores apropriados de acordo com seu ambiente.
+
+## Segredo do Azure Key Vault para a senha do servidor administrador
+
+```hcl
+data "azurerm_key_vault_secret" "PasswordServerAdmin" {
+  name         = var.passwordserveradmin
+  key_vault_id = data.azurerm_key_vault.kv-infraestrutura.id
+}
+```
+
+Este bloco de código obtém um segredo do Azure Key Vault para a senha do servidor administrador. Ele usa a variável `var.passwordserveradmin` e a referência à chave do Azure Key Vault definida anteriormente.
+
+## Gerador de Número Inteiro Aleatório
+
+```hcl
+resource "random_integer" "id" {
+  min = 111
+  max = 999
+}
+```
+
+Este recurso cria um gerador de número inteiro aleatório com valores entre 111 e 999. O resultado pode ser referenciado como `random_integer.id.result`.
+
+## Máquina Virtual Windows Azure
+
+```hcl
+resource "azurerm_windows_virtual_machine" "res-1" {
+  // Configurações da máquina virtual
+}
+```
+
+Este bloco de código define uma máquina virtual Windows Azure com várias configurações, como nome de usuário, senha, tipo de licença, localização e muito mais. Certifique-se de preencher os campos apropriados com os valores necessários para a sua máquina virtual.
+
+## Interface de Rede Azure Network Interface
+
+```hcl
+resource "azurerm_network_interface" "res-0" {
+  // Configurações da interface de rede
+}
+```
+
+Este bloco de código define uma interface de rede Azure Network Interface. Ele inclui configurações relacionadas à localização, nome, endereços IP, VNet e Subnet. Substitua os valores apropriados de acordo com sua rede.
+
+Este é um resumo da documentação para o código fornecido. Certifique-se de preencher todos os campos relevantes com os valores específicos do seu ambiente antes de implantar esses recursos no Azure usando o Terraform.
+```
+
+Lembre-se de substituir os comentários em maiúsculas (por exemplo, `xxx`) pelos valores específicos do seu ambiente. Esta documentação em Markdown deve ajudá-lo a entender e compartilhar a configuração de recursos Azure com sua equipe.
