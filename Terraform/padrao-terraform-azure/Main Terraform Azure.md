@@ -73,8 +73,6 @@ resource "azurerm_network_interface" "res-0" {
 ```
 
 ---
-
-```markdown
 # Documentação da Configuração de Recursos Azure com Terraform
 
 Este documento descreve a configuração de recursos Azure usando Terraform. O código fornecido define vários recursos, como grupos de recursos, máquinas virtuais Windows, chaves do Azure Key Vault e muito mais. A seguir, vamos detalhar cada parte do código.
