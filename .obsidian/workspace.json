@@ -11,12 +11,8 @@
             "id": "6c9a7d29bcc28446",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Documentação class conta.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Documentação class conta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Documentação class conta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/Documentação class conta.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,10 +140,10 @@
   },
   "active": "6c9a7d29bcc28446",
   "lastOpenFiles": [
+    "Python/Documentação class conta.md",
     "Python/Criando uma venv.md",
     "Python/_ ou __ protect e private.md",
     "AWS/Criando um par de chaves AWS.md",
-    "Python/Documentação class conta.md",
     "Terraform/padrao-terraform-azure/Main Terraform Azure.md",
     "Terraform/padrao-terraform-azure/Backend Azure Terraform.md",
     "Terraform/padrao-terraform-azure/Provider Terraform Azure.md",
