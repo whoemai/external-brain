@@ -71,5 +71,3 @@ resource "azurerm_network_interface" "res-0" {
   ]
 }
 ```
-
-Agora, o código está documentado com comentários que explicam o propósito de cada funcionalidade e onde você precisa fazer ajustes de acordo com o ambiente. Certifique-se de personalizar as partes marcadas como "xxx" com os valores específicos do seu ambiente.

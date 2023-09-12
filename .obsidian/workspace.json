@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terraform/padrao-terraform-azure/Variables Terraform Azure.md",
+                "file": "Terraform/padrao-terraform-azure/Main Terraform Azure.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terraform/padrao-terraform-azure/Variables Terraform Azure.md",
+                "file": "Terraform/padrao-terraform-azure/Main Terraform Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terraform/padrao-terraform-azure/Variables Terraform Azure.md",
+                "file": "Terraform/padrao-terraform-azure/Main Terraform Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terraform/padrao-terraform-azure/Variables Terraform Azure.md"
+                "file": "Terraform/padrao-terraform-azure/Main Terraform Azure.md"
               }
             }
           }
@@ -149,10 +148,10 @@
   },
   "active": "6c9a7d29bcc28446",
   "lastOpenFiles": [
-    "Terraform/padrao-terraform-azure/Provider Terraform Azure.md",
-    "Terraform/padrao-terraform-azure/Main Terraform Azure.md",
     "Terraform/padrao-terraform-azure/Backend Azure Terraform.md",
     "Terraform/padrao-terraform-azure/Variables Terraform Azure.md",
+    "Terraform/padrao-terraform-azure/Provider Terraform Azure.md",
+    "Terraform/padrao-terraform-azure/Main Terraform Azure.md",
     "AWS/Criando uma secret key na AWS.md",
     "AWS/Criando um par de chaves AWS.md",
     "Python/Documentação class conta.md",
