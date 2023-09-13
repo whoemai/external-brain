@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5cdfc8dafa0439d7",
+        "id": "80662dc49783dd56",
         "type": "tabs",
         "children": [
           {
-            "id": "c133df94913dc6fe",
+            "id": "fe135c48a41d7cea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Classes Abstratas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Classes Abstratas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Classes Abstratas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/Classes Abstratas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,18 +149,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c133df94913dc6fe",
+  "active": "fe135c48a41d7cea",
   "lastOpenFiles": [
-    "Sem título.canvas",
+    "Python/_ ou __ protect e private.md",
+    "Python/Class.md",
     "Python/Classes Abstratas.md",
+    "Sem título.canvas",
     "Python/Herança múltipla.md",
     "Python/super().md",
     "Python/Herança.md",
     "Python/Limpando uma venv.md",
-    "Python/Class.md",
     "Python/Removendo duplicações.md",
     "Python/Criando uma venv.md",
-    "Python/_ ou __ protect e private.md",
     "AWS/Criando um par de chaves AWS.md",
     "Terraform/padrao-terraform-azure/Main Terraform Azure.md",
     "Terraform/padrao-terraform-azure/Backend Azure Terraform.md",
