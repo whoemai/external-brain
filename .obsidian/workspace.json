@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Documentação de Herança em Python.md",
-                "mode": "preview",
+                "file": "Python/Documentação de Herança.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Documentação de Herança em Python.md",
+                "file": "Python/Documentação de Herança.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Documentação de Herança em Python.md",
+                "file": "Python/Documentação de Herança.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Documentação de Herança em Python.md"
+                "file": "Python/Documentação de Herança.md"
               }
             }
           },
@@ -158,17 +158,18 @@
   },
   "active": "c133df94913dc6fe",
   "lastOpenFiles": [
-    "Python/Documentação de Herança em Python.md",
-    "Python/Documentação class conta.md",
     "Python/Criando uma venv.md",
     "Python/_ ou __ protect e private.md",
+    "Python/Limpando uma venv.md",
+    "Python/Removendo duplicações.md",
+    "Python/Documentação class.md",
+    "Python/Documentação de Herança.md",
     "AWS/Criando um par de chaves AWS.md",
     "Terraform/padrao-terraform-azure/Main Terraform Azure.md",
     "Terraform/padrao-terraform-azure/Backend Azure Terraform.md",
     "Terraform/padrao-terraform-azure/Provider Terraform Azure.md",
     "Terraform/padrao-terraform-azure/Variables Terraform Azure.md",
     "AWS/Criando uma secret key na AWS.md",
-    "Python/Removendo duplicações.md",
     "Terraform/main.MD",
     "Terraform/backend.MD",
     "Terraform/main.tf",
@@ -181,7 +182,6 @@
     "Terraform/Nova-pasta/RECAZSUSWPRD057/main.tf",
     "Terraform/Nova-pasta/RECAZSUSWPRD057/backend.tf",
     "Terraform/Nova-pasta/RECAZSUSWPRD057",
-    "Python/Limpando uma venv.md",
     "Ansible/Fazendo a instalação do Ansible.md",
     "Sem título 1.canvas",
     "Sem título.canvas",

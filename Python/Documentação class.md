@@ -103,5 +103,6 @@ Isso permite que você acesse o saldo da conta usando `conta.saldo` em vez de `c
 - `self`: O parâmetro `self` é usado para referenciar o próprio objeto e acessar seus atributos e métodos.
 
 - `__`: O uso de `__` antes do nome de um atributo, como `__numero`, `__titular`, `__saldo` e `__limite`, indica que esses atributos são privados e não devem ser acessados diretamente fora da classe. Eles são chamados de "atributos dunder" (dunder significa "double underscore", ou seja, dois underscores). A convenção de usar `__` é uma forma de indicar que esses atributos são internos à classe e não devem ser alterados diretamente fora dela.
+- Para saber mais leia também a nota [[_ ou __ protect e private]]
 
 O encapsulamento desses atributos privados é uma prática importante para manter a integridade dos dados e evitar possíveis erros ao modificar atributos críticos inadvertidamente.
