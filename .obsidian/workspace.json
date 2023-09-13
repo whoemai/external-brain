@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/_ ou __ protect e private.md",
-                "mode": "source",
+                "file": "Python/Herança múltipla.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/_ ou __ protect e private.md",
+                "file": "Python/Herança múltipla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/_ ou __ protect e private.md",
+                "file": "Python/Herança múltipla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/_ ou __ protect e private.md"
+                "file": "Python/Herança múltipla.md"
               }
             }
           },
@@ -158,11 +158,12 @@
   },
   "active": "c133df94913dc6fe",
   "lastOpenFiles": [
-    "Python/Documentação class.md",
-    "Python/Documentação de Herança.md",
-    "Python/Limpando uma venv.md",
     "Python/Removendo duplicações.md",
+    "Python/Limpando uma venv.md",
+    "Python/Herança múltipla.md",
+    "Python/Herança.md",
     "Python/Criando uma venv.md",
+    "Python/Class.md",
     "Python/_ ou __ protect e private.md",
     "AWS/Criando um par de chaves AWS.md",
     "Terraform/padrao-terraform-azure/Main Terraform Azure.md",
