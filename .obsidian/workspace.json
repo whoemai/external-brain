@@ -14,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "31ea6300ac256252",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,6 +131,16 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "aa2a12f8f017e824",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -138,7 +159,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6c9a7d29bcc28446",
+  "active": "31ea6300ac256252",
   "lastOpenFiles": [
     "Python/Documentação class conta.md",
     "Python/Criando uma venv.md",
