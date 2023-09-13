@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "80662dc49783dd56",
+        "id": "9f4d9375f8bf7a0b",
         "type": "tabs",
         "children": [
           {
-            "id": "fe135c48a41d7cea",
+            "id": "c8d8ef69ff6de6a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -149,7 +149,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fe135c48a41d7cea",
+  "active": "c8d8ef69ff6de6a5",
   "lastOpenFiles": [
     "Python/_ ou __ protect e private.md",
     "Python/Class.md",
