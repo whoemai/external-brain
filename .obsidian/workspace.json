@@ -11,8 +11,12 @@
             "id": "c133df94913dc6fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python/Classes Abstratas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Cloud",
+                "query": "tag:#Herança",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/Classes Abstratas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/Classes Abstratas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/Classes Abstratas.md"
+              }
             }
           },
           {
@@ -132,7 +139,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -151,14 +159,15 @@
   },
   "active": "c133df94913dc6fe",
   "lastOpenFiles": [
+    "Sem título.canvas",
     "Python/Classes Abstratas.md",
-    "Python/super().md",
     "Python/Herança múltipla.md",
-    "Python/Removendo duplicações.md",
-    "Python/Limpando uma venv.md",
+    "Python/super().md",
     "Python/Herança.md",
-    "Python/Criando uma venv.md",
+    "Python/Limpando uma venv.md",
     "Python/Class.md",
+    "Python/Removendo duplicações.md",
+    "Python/Criando uma venv.md",
     "Python/_ ou __ protect e private.md",
     "AWS/Criando um par de chaves AWS.md",
     "Terraform/padrao-terraform-azure/Main Terraform Azure.md",
@@ -180,7 +189,6 @@
     "Terraform/Nova-pasta/RECAZSUSWPRD057",
     "Ansible/Fazendo a instalação do Ansible.md",
     "Sem título 1.canvas",
-    "Sem título.canvas",
     "Obsidian/nota_vinculada.md",
     "Obsidian/Dicas obsidian.md",
     "2023-09-01.md",
