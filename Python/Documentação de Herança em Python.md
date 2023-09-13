@@ -1,4 +1,4 @@
-#Python #POO #class 
+#Python #POO #class #Herança
 
 A herança é um princípio fundamental da programação orientada a objetos (OOP) que permite criar uma nova classe que é uma versão modificada de uma classe existente.
 
@@ -50,5 +50,3 @@ gato = Gato("Mingau")
 print(gato.nome)  # Saída: Mingau
 print(gato.falar())  # Saída: Miau
 ```
-
-Espero que isso ajude a entender o conceito básico de herança em Python! Se você tiver mais perguntas, sinta-se à vontade para perguntar.
