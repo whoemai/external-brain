@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Herança múltipla.md",
-                "mode": "preview",
+                "file": "Python/super().md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Herança múltipla.md",
+                "file": "Python/super().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Herança múltipla.md",
+                "file": "Python/super().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Herança múltipla.md"
+                "file": "Python/super().md"
               }
             }
           },
@@ -158,9 +158,10 @@
   },
   "active": "c133df94913dc6fe",
   "lastOpenFiles": [
+    "Python/Herança múltipla.md",
+    "Python/super().md",
     "Python/Removendo duplicações.md",
     "Python/Limpando uma venv.md",
-    "Python/Herança múltipla.md",
     "Python/Herança.md",
     "Python/Criando uma venv.md",
     "Python/Class.md",
