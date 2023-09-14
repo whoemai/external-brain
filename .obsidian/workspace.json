@@ -151,6 +151,11 @@
   },
   "active": "c8d8ef69ff6de6a5",
   "lastOpenFiles": [
+    "Terraform/padrao_terraform_azure_linux/Provider Azure Linux.md",
+    "Terraform/padrao_terraform_azure_linux/Variables Azure Linux.md",
+    "Terraform/padrao_terraform_azure_linux/Main Azure Linux.md",
+    "Terraform/padrao_terraform_azure_linux/Backend Azure Linux.md",
+    "Terraform/padrao_terraform_azure_linux",
     "Terraform/padrao_terraform_azure_windows/Variables Azure  Windows.md",
     "Terraform/padrao_terraform_azure_windows/Provider Azure Windows.md",
     "Terraform/padrao_terraform_azure_windows/Backend Azure Windows.md",
@@ -178,14 +183,12 @@
     "Terraform/Nova-pasta/RECAZSUSWPRD057/provider.tf",
     "Terraform/Nova-pasta/RECAZSUSWPRD057/main.tf",
     "Terraform/Nova-pasta/RECAZSUSWPRD057/backend.tf",
-    "Terraform/Nova-pasta/RECAZSUSWPRD057",
     "Ansible/Fazendo a instalação do Ansible.md",
     "Sem título 1.canvas",
     "Obsidian/nota_vinculada.md",
     "Obsidian/Dicas obsidian.md",
     "2023-09-01.md",
     "Untitled.canvas",
-    "teste2.md",
-    "teste.md"
+    "teste2.md"
   ]
 }
