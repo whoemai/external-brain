@@ -11,8 +11,12 @@
             "id": "c8d8ef69ff6de6a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python/_ ou __ protect e private.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/_ ou __ protect e private.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/_ ou __ protect e private.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/_ ou __ protect e private.md"
+              }
             }
           },
           {
@@ -151,16 +159,16 @@
   },
   "active": "c8d8ef69ff6de6a5",
   "lastOpenFiles": [
-    "Python/_ ou __ protect e private.md",
     "Python/Class.md",
     "Python/Classes Abstratas.md",
-    "Sem título.canvas",
+    "Python/Criando uma venv.md",
+    "Python/Removendo duplicações.md",
+    "Python/Limpando uma venv.md",
     "Python/Herança múltipla.md",
+    "Python/_ ou __ protect e private.md",
+    "Sem título.canvas",
     "Python/super().md",
     "Python/Herança.md",
-    "Python/Limpando uma venv.md",
-    "Python/Removendo duplicações.md",
-    "Python/Criando uma venv.md",
     "AWS/Criando um par de chaves AWS.md",
     "Terraform/padrao-terraform-azure/Main Terraform Azure.md",
     "Terraform/padrao-terraform-azure/Backend Azure Terraform.md",
