@@ -11,8 +11,12 @@
             "id": "c8d8ef69ff6de6a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python/Criando uma venv.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/Criando uma venv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/Criando uma venv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/Criando uma venv.md"
+              }
             }
           },
           {
@@ -151,6 +159,7 @@
   },
   "active": "c8d8ef69ff6de6a5",
   "lastOpenFiles": [
+    "Python/Limpando uma venv.md",
     "Python/Class.md",
     "Sem título.canvas",
     "Terraform/padrao_terraform_azure_linux/Provider Azure Linux.md",
@@ -165,7 +174,6 @@
     "Python/Classes Abstratas.md",
     "Python/Criando uma venv.md",
     "Python/Removendo duplicações.md",
-    "Python/Limpando uma venv.md",
     "Python/Herança múltipla.md",
     "Python/super().md",
     "Python/Herança.md",
