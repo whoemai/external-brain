@@ -135,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -159,6 +161,7 @@
   },
   "active": "c8d8ef69ff6de6a5",
   "lastOpenFiles": [
+    "Python/Criando uma venv.md",
     "Python/Limpando uma venv.md",
     "Python/Class.md",
     "Sem título.canvas",
@@ -172,7 +175,6 @@
     "Terraform/padrao_terraform_azure_windows/Backend Azure Windows.md",
     "Python/_ ou __ protect e private.md",
     "Python/Classes Abstratas.md",
-    "Python/Criando uma venv.md",
     "Python/Removendo duplicações.md",
     "Python/Herança múltipla.md",
     "Python/super().md",
