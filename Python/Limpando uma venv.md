@@ -1,4 +1,5 @@
 #python
+
 1. `pip freeze > requirements`:
    - Este comando é usado para gerar um arquivo de requisitos chamado "requirements.txt".
    - O `pip freeze` é responsável por listar todas as bibliotecas Python e suas versões instaladas no ambiente virtual atual.

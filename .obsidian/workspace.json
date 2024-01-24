@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Criando uma venv.md",
+                "file": "Python/Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Criando uma venv.md",
+                "file": "Python/Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Criando uma venv.md",
+                "file": "Python/Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Criando uma venv.md"
+                "file": "Python/Class.md"
               }
             }
           },
@@ -161,8 +161,14 @@
   },
   "active": "c8d8ef69ff6de6a5",
   "lastOpenFiles": [
-    "Python/Criando uma venv.md",
+    "Python/_ ou __ protect e private.md",
+    "Python/Herança.md",
+    "Python/super().md",
+    "Python/Removendo duplicações.md",
     "Python/Limpando uma venv.md",
+    "Python/Herança múltipla.md",
+    "Python/Criando uma venv.md",
+    "Python/Classes Abstratas.md",
     "Python/Class.md",
     "Sem título.canvas",
     "Terraform/padrao_terraform_azure_linux/Provider Azure Linux.md",
@@ -173,12 +179,6 @@
     "Terraform/padrao_terraform_azure_windows/Variables Azure  Windows.md",
     "Terraform/padrao_terraform_azure_windows/Provider Azure Windows.md",
     "Terraform/padrao_terraform_azure_windows/Backend Azure Windows.md",
-    "Python/_ ou __ protect e private.md",
-    "Python/Classes Abstratas.md",
-    "Python/Removendo duplicações.md",
-    "Python/Herança múltipla.md",
-    "Python/super().md",
-    "Python/Herança.md",
     "AWS/Criando um par de chaves AWS.md",
     "Terraform/padrao_terraform_azure_windows/Main Azure Windows.md",
     "AWS/Criando uma secret key na AWS.md",

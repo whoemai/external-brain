@@ -1,4 +1,5 @@
 #Python #POO #class 
+
 A escolha entre um único sublinhado (`_`) e dois sublinhados (`__`) em Python depende da sua intenção e das melhores práticas de design de código. Aqui estão algumas diretrizes gerais para ajudá-lo a decidir quando usar um ou dois sublinhados:
 
 **Um Sublinhado (`_`)**:

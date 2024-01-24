@@ -1,4 +1,5 @@
 #Python #POO #class #Herança 
+
 Em Python, `super()` é uma função embutida que desempenha um papel fundamental na herança de classes. Ela é usada para acessar métodos e atributos de uma classe mãe (superclasse) a partir de uma classe filha (subclasse). Isso é útil quando você está estendendo uma classe e deseja executar o código da classe mãe antes ou depois de adicionar funcionalidades específicas à classe filha.
 
 ## Sintaxe Básica

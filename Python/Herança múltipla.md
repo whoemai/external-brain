@@ -1,4 +1,5 @@
 #Python #POO #class #Herança 
+
 A herança múltipla em Python permite que uma classe herde atributos e métodos de mais de uma classe mãe. Isso é útil quando você deseja combinar características de várias classes em uma única classe derivada. Aqui está como usar a herança múltipla em Python.
 
 ## Sintaxe Básica

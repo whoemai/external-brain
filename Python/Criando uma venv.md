@@ -1,4 +1,5 @@
 #Python 
+
 No terminal do python vamos para o diretório que desejamos criar a nossa venv e ditamos o seguinte código:
 ```python
 python -m venv [nome-da-venv]

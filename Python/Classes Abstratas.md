@@ -1,4 +1,5 @@
 #Python #POO #Herança #class 
+
 Em Python, uma classe abstrata é uma classe que não pode ser instanciada diretamente. Ela serve como um modelo para outras classes e define métodos que devem ser implementados pelas classes derivadas (subclasses). Classes abstratas são úteis quando você deseja garantir que todas as subclasses tenham um conjunto comum de métodos ou comportamentos.
 
 ## Módulo `abc` - Abstract Base Classes
