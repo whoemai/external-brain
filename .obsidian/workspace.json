@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "611cf2ae9d286a2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/AIrFlow/Resumo introdutório.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Class.md",
+                "file": "Python/AIrFlow/Resumo introdutório.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Class.md",
+                "file": "Python/AIrFlow/Resumo introdutório.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Class.md"
+                "file": "Python/AIrFlow/Resumo introdutório.md"
               }
             }
           },
@@ -159,8 +172,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c8d8ef69ff6de6a5",
+  "active": "611cf2ae9d286a2b",
   "lastOpenFiles": [
+    "Python/Class.md",
+    "Python/AIrFlow/Resumo introdutório.md",
+    "Python/AIrFlow",
     "Python/_ ou __ protect e private.md",
     "Python/Herança.md",
     "Python/super().md",
@@ -169,7 +185,6 @@
     "Python/Herança múltipla.md",
     "Python/Criando uma venv.md",
     "Python/Classes Abstratas.md",
-    "Python/Class.md",
     "Sem título.canvas",
     "Terraform/padrao_terraform_azure_linux/Provider Azure Linux.md",
     "Terraform/padrao_terraform_azure_linux/Variables Azure Linux.md",
@@ -192,7 +207,6 @@
     "Terraform/Nova-pasta/RECAZSUSWPRD057/variables.tf",
     "Terraform/Nova-pasta/RECAZSUSWPRD057/provider.tf",
     "Terraform/Nova-pasta/RECAZSUSWPRD057/main.tf",
-    "Terraform/Nova-pasta/RECAZSUSWPRD057/backend.tf",
     "Ansible/Fazendo a instalação do Ansible.md",
     "Sem título 1.canvas",
     "Obsidian/nota_vinculada.md",
