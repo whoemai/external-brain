@@ -23,12 +23,8 @@
             "id": "611cf2ae9d286a2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/AIrFlow/Resumo introdutório.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/AIrFlow/Resumo introdutório.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/AIrFlow/Resumo introdutório.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/AIrFlow/Resumo introdutório.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,17 +166,18 @@
   },
   "active": "611cf2ae9d286a2b",
   "lastOpenFiles": [
+    "Python/Herança múltipla.md",
+    "Python/Herança.md",
+    "Python/Criando uma venv.md",
+    "Python/Classes Abstratas.md",
     "Python/Class.md",
+    "Python/_ ou __ protect e private.md",
+    "Python/AIrFlow/Criando uma DAG.md",
     "Python/AIrFlow/Resumo introdutório.md",
     "Python/AIrFlow",
-    "Python/_ ou __ protect e private.md",
-    "Python/Herança.md",
     "Python/super().md",
     "Python/Removendo duplicações.md",
     "Python/Limpando uma venv.md",
-    "Python/Herança múltipla.md",
-    "Python/Criando uma venv.md",
-    "Python/Classes Abstratas.md",
     "Sem título.canvas",
     "Terraform/padrao_terraform_azure_linux/Provider Azure Linux.md",
     "Terraform/padrao_terraform_azure_linux/Variables Azure Linux.md",
@@ -211,7 +204,6 @@
     "Sem título 1.canvas",
     "Obsidian/nota_vinculada.md",
     "Obsidian/Dicas obsidian.md",
-    "2023-09-01.md",
     "Untitled.canvas"
   ]
 }
