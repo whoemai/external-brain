@@ -23,8 +23,17 @@ def excluir_linha(origem):
 
 def copiar_dados(arquivo_origem, arquivo_destino, planilha_destino):
 	wb_origem = openyxl.load_workbook(arquivo_origem)
-	wb_destino = openyxl.load_workbook(arquivo)
+	wb_destino = openyxl.load_workbook(arquivo_destino)
+	planilha_origem = wb_origem.worksheets[0]
+	planilha_dest = wb_destino[planilha_destino]
+	for i, row in enumerate(planilha_origem.iter_rows(values_only=True), start=1)
+		for j, value in enumerate(row, start=1):
+			planilha_dest.cell(row=i, column=j, value=value)
 
+caminho = copiar_caminho('excel_origem_dados')
+excluir_linha(caminho)
+copiar_arquivo('excel_origem/template.xlsx', 'excel_origem/pedro_excel.slsx')
+copiar_dados('excel_origem/dados_excel.xlsx', '')
 
 
 
