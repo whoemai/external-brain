@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Herança múltipla.md",
+                "file": "Python/Automação/Gerenciador de arquivos xlsx.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Herança múltipla.md",
+                "file": "Python/Automação/Gerenciador de arquivos xlsx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Herança múltipla.md",
+                "file": "Python/Automação/Gerenciador de arquivos xlsx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Herança múltipla.md"
+                "file": "Python/Automação/Gerenciador de arquivos xlsx.md"
               }
             }
           },
@@ -175,6 +175,8 @@
   "active": "611cf2ae9d286a2b",
   "lastOpenFiles": [
     "Python/Herança múltipla.md",
+    "Python/Automação/Gerenciador de arquivos xlsx.md",
+    "Python/Automação",
     "Python/Herança.md",
     "Python/Criando uma venv.md",
     "Python/Classes Abstratas.md",
@@ -207,11 +209,9 @@
     "Terraform/padrao_terraform_azure_windows",
     "Terraform/Nova-pasta/RECAZSUSWPRD057/variables.tf",
     "Terraform/Nova-pasta/RECAZSUSWPRD057/provider.tf",
-    "Terraform/Nova-pasta/RECAZSUSWPRD057/main.tf",
     "Ansible/Fazendo a instalação do Ansible.md",
     "Sem título 1.canvas",
     "Obsidian/nota_vinculada.md",
-    "Obsidian/Dicas obsidian.md",
     "Untitled.canvas"
   ]
 }
