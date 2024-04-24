@@ -35,6 +35,9 @@ excluir_linha(caminho)
 copiar_arquivo('excel_origem/template.xlsx', 'excel_origem/pedro_excel.slsx')
 copiar_dados('excel_origem/dados_excel.xlsx', 'excel_origem/pedro_excel', 'base_banco')
 
-
+def get_blob_service_client_sas(self, sds_token: str):
+	accout_url = ''
+	credential = ''
+	blob_service_client = BlobServiceClient(account_url)
 
 ```
