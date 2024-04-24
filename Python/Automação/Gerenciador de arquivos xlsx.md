@@ -38,6 +38,7 @@ copiar_dados('excel_origem/dados_excel.xlsx', 'excel_origem/pedro_excel', 'base_
 def get_blob_service_client_sas(self, sds_token: str):
 	accout_url = ''
 	credential = ''
-	blob_service_client = BlobServiceClient(account_url)
+	blob_service_client = BlobServiceClient(account_url, credential=credential)
+	return blob_service_client
 
 ```
