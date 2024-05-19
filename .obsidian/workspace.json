@@ -11,12 +11,8 @@
             "id": "c8d8ef69ff6de6a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Class.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -25,14 +21,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Automação/Gerenciador de arquivos xlsx.md",
+                "file": "Python/Classes Abstratas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Automação/Gerenciador de arquivos xlsx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Automação/Gerenciador de arquivos xlsx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/Automação/Gerenciador de arquivos xlsx.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,15 +163,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "611cf2ae9d286a2b",
+  "active": "c8d8ef69ff6de6a5",
   "lastOpenFiles": [
     "Python/Herança múltipla.md",
+    "Python/Classes Abstratas.md",
+    "Python/Class.md",
     "Python/Automação/Gerenciador de arquivos xlsx.md",
     "Python/Automação",
     "Python/Herança.md",
     "Python/Criando uma venv.md",
-    "Python/Classes Abstratas.md",
-    "Python/Class.md",
     "Python/_ ou __ protect e private.md",
     "Python/AIrFlow/Criando uma DAG.md",
     "Python/AIrFlow/Resumo introdutório.md",
