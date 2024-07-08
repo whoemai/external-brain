@@ -26,6 +26,16 @@
             }
           },
           {
+            "id": "251a73007922329a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
             "id": "611cf2ae9d286a2b",
             "type": "leaf",
             "state": {
@@ -38,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,7 +184,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "589394dd7a9cdefd",
+  "active": "251a73007922329a",
   "lastOpenFiles": [
     "Python/Herança múltipla.md",
     "Python/Classes Abstratas.md",
