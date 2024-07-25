@@ -1,0 +1,67 @@
+name: Node.js Backend CI/CD
+
+on:
+  push:
+    branches:
+      - main  # ajuste conforme sua branch principal
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 'Az CLI login'
+        uses: azure/login@v2
+        with:
+          client-id: ${{ secrets}}
+          tenant-id: ${{ secrets}}
+          subscription-id: ${{ secrets}}
+
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18'  # ajuste para a versão do Node.js que você está usando
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Build Application
+        run: npm run build  # ajuste se o comando de build for diferente
+
+      - name: Generate Docker Tag
+        id: tag
+        run: echo "::set-output name=tag::$(echo $GITHUB_SHA | cut -c1-7)"
+
+      - name: Login to Azure Container Registry
+        uses: azure/docker-login@v1
+        with:
+          login-server: acrxxxxbackprod.azurecr.io  # substitua pelo seu Azure Container Registry
+          username: ${{ secrets}}
+          password: ${{ secrets}}
+
+      - name: Build and Push Docker Image
+        run: |
+          docker build -t xxxxx:${{ steps.tag.outputs.tag }} .
+          docker push xxxxxxxxx:${{ steps.tag.outputs.tag }}
+      
+      - name: Update Azure Container Apps
+        run: |
+          az containerapp update --name xxxx-backend --resource-group rg-xxxx-prd --image acrxxxxbackprod.azurecr.io/xxxx-backend:${{ steps.tag.outputs.tag }} \
+            --set-env-vars "DATABASE_URL=secretref:databaseurl" \
+                "HTTP_PORT=secretref:httpport" \
+                "AZURE_COSMOS_ENDPOINT=secretref:cosmosendpoint" \
+                "AZURE_COSMOS_KEY=secretref:cosmoskey" \
+                "AZURE_COSMOS_DATABASE_NAME=secretref:cosmosdatabase" \
+                "AZURE_STORAGE_CONNECTION=secretref:storageconnection" \
+                "AZURE_STORAGE_CONTAINER_NAME=secretref:storagecontainer" \
+                "JWT_SECRET=secretref:jwtsecret" \
+                "AI_QUEUE_URL=secretref:aiqueueurl" \
+                "AI_QUEUE_AUTHORIZATION_TOKEN=secretref:aiqueuetoken"
+              
