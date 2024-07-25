@@ -1,6 +1,3 @@
-#Python 
-
-```python
 import shutil
 import pandas as pd
 import openyxl
@@ -40,5 +37,3 @@ def get_blob_service_client_sas(self, sds_token: str):
 	credential = ''
 	blob_service_client = BlobServiceClient(account_url, credential=credential)
 	return blob_service_client
-
-```
