@@ -36,6 +36,16 @@
             }
           },
           {
+            "id": "01c6609137142889",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "611cf2ae9d286a2b",
             "type": "leaf",
             "state": {
@@ -48,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,8 +194,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "251a73007922329a",
+  "active": "01c6609137142889",
   "lastOpenFiles": [
+    "Python/Automação/Automação de processos/Gerenciador de arquivos xlsx.py",
+    "Python/Automação/Automação de processos",
+    "Python/Automação/Automação cicd/pipeline001/Dockerfile",
+    "Python/Automação/Automação cicd/pipeline001/azure-pipelines.yml",
+    "Python/Automação/Automação cicd/pipeline002/pipeline.yml",
+    "Python/Automação/Automação cicd/pipeline001",
+    "Python/Automação/Automação cicd/pipeline002",
+    "Python/Automação/Automação cicd",
     "Python/Herança múltipla.md",
     "Python/Classes Abstratas.md",
     "Python/Class.md",
@@ -214,16 +232,8 @@
     "AWS/Criando uma secret key na AWS.md",
     "Terraform/main.MD",
     "Terraform/backend.MD",
-    "Terraform/main.tf",
-    "Terraform/variables.tf",
-    "Terraform/provider.tf",
-    "Terraform/backend.tf",
-    "Terraform/padrao_terraform_azure_windows",
-    "Terraform/Nova-pasta/RECAZSUSWPRD057/variables.tf",
-    "Terraform/Nova-pasta/RECAZSUSWPRD057/provider.tf",
     "Ansible/Fazendo a instalação do Ansible.md",
     "Sem título 1.canvas",
-    "Obsidian/nota_vinculada.md",
     "Untitled.canvas"
   ]
 }
