@@ -4,61 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9f4d9375f8bf7a0b",
+        "id": "cc73f8d2b3b4d27a",
         "type": "tabs",
         "children": [
           {
-            "id": "c8d8ef69ff6de6a5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "589394dd7a9cdefd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "251a73007922329a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
-            "id": "01c6609137142889",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "611cf2ae9d286a2b",
+            "id": "da81461a43da31ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Classes Abstratas.md",
+                "file": "Python/OpenAI/LangChain.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "LangChain"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -93,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -101,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -124,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/OpenAI/LangChain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para LangChain"
             }
           },
           {
@@ -140,9 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/OpenAI/LangChain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para LangChain"
             }
           },
           {
@@ -153,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -161,7 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/OpenAI/LangChain.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de LangChain"
             }
           },
           {
@@ -173,7 +154,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -194,8 +177,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "01c6609137142889",
+  "active": "da81461a43da31ec",
   "lastOpenFiles": [
+    "Python/OpenAI/LangChain.md",
+    "Python/OpenAI",
+    "Python/Classes Abstratas.md",
     "Python/Automação/Automação de processos/Gerenciador de arquivos xlsx.py",
     "Python/Automação/Automação de processos",
     "Python/Automação/Automação cicd/pipeline001/Dockerfile",
@@ -205,7 +191,6 @@
     "Python/Automação/Automação cicd/pipeline002",
     "Python/Automação/Automação cicd",
     "Python/Herança múltipla.md",
-    "Python/Classes Abstratas.md",
     "Python/Class.md",
     "Python/Automação/Gerenciador de arquivos xlsx.md",
     "Python/Automação",
@@ -214,7 +199,6 @@
     "Python/_ ou __ protect e private.md",
     "Python/AIrFlow/Criando uma DAG.md",
     "Python/AIrFlow/Resumo introdutório.md",
-    "Python/AIrFlow",
     "Python/super().md",
     "Python/Removendo duplicações.md",
     "Python/Limpando uma venv.md",
@@ -223,7 +207,6 @@
     "Terraform/padrao_terraform_azure_linux/Variables Azure Linux.md",
     "Terraform/padrao_terraform_azure_linux/Main Azure Linux.md",
     "Terraform/padrao_terraform_azure_linux/Backend Azure Linux.md",
-    "Terraform/padrao_terraform_azure_linux",
     "Terraform/padrao_terraform_azure_windows/Variables Azure  Windows.md",
     "Terraform/padrao_terraform_azure_windows/Provider Azure Windows.md",
     "Terraform/padrao_terraform_azure_windows/Backend Azure Windows.md",
