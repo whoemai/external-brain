@@ -12,6 +12,8 @@
 
 ---
 
+### Exemplo de uma LangChain simples: 
+
 ```py
 from langchain_openai import ChatOpenAI
 from langchain.prompts import PromptTemplate
@@ -40,7 +42,7 @@ llm = ChatOpenAI(
     api_key=os.getenv("OPENAI_API_KEY"))
 
 resposta = llm.invoke(prompt)
-print(resposta.content)
+print(resposta.content) 
 ```
 
 Para explorar outras formas de trabalhar com `PromptTemplate`, acesse a [documentação do LangChain](https://api.python.langchain.com/en/latest/prompts/langchain_core.prompts.prompt.PromptTemplate.html).
